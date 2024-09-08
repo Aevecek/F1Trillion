@@ -112,8 +112,8 @@ See [`README`](src/README.md) section in our `src` directory for breakdown of ho
 ### Final Project Documentation
 
 * [Final Project Proposal](https://docs.google.com/presentation/d/199oVWJiOSEHAjcmizN8rejuzU7rHNCNl4qY55uGqgxQ/edit?usp=sharing)
-* [Progress Update 2/29](https://github.com/kiers-neely/ucsd-mae-148-team-4/files/14469441/mae148-slides-update.pdf)
-* [Progress Update 3/7](https://github.com/kiers-neely/ucsd-mae-148-team-4/files/14547470/mae148-slides-update.2.pdf)
+* [Progress Update 9/3](https://github.com/kiers-neely/ucsd-mae-148-team-4/files/14469441/mae148-slides-update.pdf)
+* [Final Project Presentation 9/6](https://docs.google.com/presentation/d/1Kh5DuJ2OJTZT9KIFtTjcRsvLP3D4vm2SrYZrtaFCOiI/edit?usp=sharing)
 
 <!-- Early Quarter -->
 ## Robot Design
